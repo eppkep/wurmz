@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/eppkep/wurmz/raw/master/wnd.png "Logo Title Text 1")
+![Wurm Never Dies](https://github.com/eppkep/wurmz/raw/master/wnd.png "Wurm Never Dies")
 ----
 **/v/ edition | 2007 - present | always comfy | 100 quality | good feels guaranteed**
 
@@ -9,7 +9,7 @@
 
 Server Info
 ----
-No dedicated server yet. Still experimenting. Linux hosting might be ruled out.
+No dedicated server yet. Still experimenting. ~~Linux hosting might be ruled out.~~
 
 - Server IP
 - Status
@@ -21,8 +21,9 @@ Version History
 ----
 | Version       | Date          | Wurm Version  | Comment(s)   |
 | ------------- |:-------------:|:-------------:|:----------   |
-| 1             | July 15, 2017 | 1.4.0.1       |- Made a GitHub because rogue Wurm sites always disappear to lack of maintenance<br/>- 1.4.0.1 obtained and cracked|
-| 2             | . . .         | . . .         | . . .        |
+| 1             | July 15, 2017 | 1.4.0.1       |- Made a GitHub because rogue Wurm sites always disappear to lack of maintenance<br/>- 1.4.0.1 client cracked with a Steam Emulator|
+| 2             | July 16, 2017 | 1.4.0.1       |- Headless Linux server is a success, albeit with SteamAPI<br/>-Next up: Crack SteamAPI|
+| 3             | . . .         | . . .         | . . .        |
 
 Endnotes
 -----
